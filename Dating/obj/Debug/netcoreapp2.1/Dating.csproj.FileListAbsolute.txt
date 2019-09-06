@@ -1,0 +1,14 @@
+C:\Users\Kevin\Desktop\development\Dating\Dating\bin\Debug\netcoreapp2.1\Dating.deps.json
+C:\Users\Kevin\Desktop\development\Dating\Dating\bin\Debug\netcoreapp2.1\Dating.runtimeconfig.json
+C:\Users\Kevin\Desktop\development\Dating\Dating\bin\Debug\netcoreapp2.1\Dating.runtimeconfig.dev.json
+C:\Users\Kevin\Desktop\development\Dating\Dating\bin\Debug\netcoreapp2.1\Dating.dll
+C:\Users\Kevin\Desktop\development\Dating\Dating\bin\Debug\netcoreapp2.1\Dating.pdb
+C:\Users\Kevin\Desktop\development\Dating\Dating\obj\Debug\netcoreapp2.1\Dating.csprojAssemblyReference.cache
+C:\Users\Kevin\Desktop\development\Dating\Dating\obj\Debug\netcoreapp2.1\Dating.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\development\Dating\Dating\obj\Debug\netcoreapp2.1\Dating.RazorAssemblyInfo.cache
+C:\Users\Kevin\Desktop\development\Dating\Dating\obj\Debug\netcoreapp2.1\Dating.RazorAssemblyInfo.cs
+C:\Users\Kevin\Desktop\development\Dating\Dating\obj\Debug\netcoreapp2.1\Dating.AssemblyInfoInputs.cache
+C:\Users\Kevin\Desktop\development\Dating\Dating\obj\Debug\netcoreapp2.1\Dating.AssemblyInfo.cs
+C:\Users\Kevin\Desktop\development\Dating\Dating\obj\Debug\netcoreapp2.1\Dating.RazorTargetAssemblyInfo.cache
+C:\Users\Kevin\Desktop\development\Dating\Dating\obj\Debug\netcoreapp2.1\Dating.dll
+C:\Users\Kevin\Desktop\development\Dating\Dating\obj\Debug\netcoreapp2.1\Dating.pdb
