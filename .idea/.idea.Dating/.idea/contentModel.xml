@@ -52,7 +52,7 @@
             </e>
             <e p="ajv" t="IncludeRecursive" />
             <e p="blocking-proxy" t="IncludeRecursive" />
-            <e p="bootstrap" t="Include">
+            <e p="bootstrap" t="IncludeRecursive">
               <e p="dist" t="Include">
                 <e p="css" t="Include">
                   <e p="bootstrap-grid.css" t="Include" />
@@ -236,7 +236,7 @@
             <e p="dependency-graph" t="IncludeRecursive" />
             <e p="es6-promise" t="IncludeRecursive" />
             <e p="fast-deep-equal" t="IncludeRecursive" />
-            <e p="font-awesome" t="Include">
+            <e p="font-awesome" t="IncludeRecursive">
               <e p=".npmignore" t="Include" />
               <e p="css" t="Include">
                 <e p="font-awesome.css" t="Include" />
@@ -289,7 +289,7 @@
             </e>
             <e p="jasmine-core" t="IncludeRecursive" />
             <e p="jasmine-spec-reporter" t="IncludeRecursive" />
-            <e p="jquery" t="Include">
+            <e p="jquery" t="IncludeRecursive">
               <e p="AUTHORS.txt" t="Include" />
               <e p="bower.json" t="Include" />
               <e p="dist" t="Include">
@@ -471,7 +471,7 @@
             <e p="karma-jasmine-html-reporter" t="IncludeRecursive" />
             <e p="license-webpack-plugin" t="IncludeRecursive" />
             <e p="magic-string" t="IncludeRecursive" />
-            <e p="popper.js" t="Include">
+            <e p="popper.js" t="IncludeRecursive">
               <e p="dist" t="Include">
                 <e p="esm" t="Include">
                   <e p="popper-utils.js" t="Include" />
@@ -611,7 +611,10 @@
           <e p="DataContextModelSnapshot.cs" t="Include" />
         </e>
         <e p="Models" t="Include">
+          <e p="AuthRepository.cs" t="Include" />
           <e p="DataContext.cs" t="Include" />
+          <e p="IAuthRepository.cs" t="Include" />
+          <e p="User.cs" t="Include" />
           <e p="Value.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive">
