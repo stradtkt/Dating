@@ -152,6 +152,10 @@
                   <e p="value.component.ts" t="Include" />
                 </e>
               </e>
+              <e p="services" t="Include">
+                <e p="auth.service.spec.ts" t="Include" />
+                <e p="auth.service.ts" t="Include" />
+              </e>
             </e>
             <e p="assets" t="Include">
               <e p=".gitkeep" t="Include" />
