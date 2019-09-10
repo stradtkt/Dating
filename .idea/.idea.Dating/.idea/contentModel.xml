@@ -157,12 +157,6 @@
                   <e p="register.component.spec.ts" t="Include" />
                   <e p="register.component.ts" t="Include" />
                 </e>
-                <e p="value" t="Include">
-                  <e p="value.component.css" t="Include" />
-                  <e p="value.component.html" t="Include" />
-                  <e p="value.component.spec.ts" t="Include" />
-                  <e p="value.component.ts" t="Include" />
-                </e>
               </e>
               <e p="services" t="Include">
                 <e p="auth.service.spec.ts" t="Include" />
