@@ -189,6 +189,9 @@
           <e p="UserForLoginDto.cs" t="Include" />
           <e p="UserForRegisterDto.cs" t="Include" />
         </e>
+        <e p="Helpers" t="Include">
+          <e p="Extensions.cs" t="Include" />
+        </e>
         <e p="Migrations" t="Include">
           <e p="20190906213459_InitialCreate.cs" t="Include" />
           <e p="20190906213459_InitialCreate.Designer.cs" t="Include" />
